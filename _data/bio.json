@@ -1,18 +1,17 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
-    "label": "Student",
-    "picture": "https://github.com/kambergjohnson.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "name": "RANDRIAHAVANA Manoary Sarobidy",
+    "label": "Full Stack Developper",
+    "picture": "https://github.com/manoarysarobidy",
+    "email": "manoarysarobidy@gmail.com",
+    "phone": "+261 33 85 995 51",
+    "website": "https://manoarysarobidy.github.io",
+    "summary": "Dévéloppeur Fullstack, je suis ravi de vous offrir mes compétences pour la réussite de vos projets.",
+    "location": { "address": "Ambodin'Isotry", "postalCode": "101", "city": "Antananarivo", "countryCode": "MDA", "region": "" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "github", "username": "manoarysarobidy", "url": "https://github.com/manoarysarobidy" },
+      { "network": "linkedin", "username": "RANDRIAHAVANA Manoary Sarobidy", "url": "https://www.linkedin.com/in/randriahavana-manoary-sarobidy" },
+      { "network": "facebook", "username": "RANDRIAHAVANA Manoary Sarobidy", "url": "https://www.facebook.com/profile.php?id=100006858049062" }
     ]
   },
   "interests": [
