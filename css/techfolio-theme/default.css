@@ -48,3 +48,8 @@ a {
   background-color: var(--bs-white);
   border-top: none;
 }
+
+
+body{
+  background-image: url('../../img/backgrounds/principal-bg.jpg');
+}
