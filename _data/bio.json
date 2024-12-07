@@ -15,11 +15,9 @@
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    { "name": "Développement d'application Web, Mobile" },
+    { "name": "Déploiement" },
+    { "name": "Problem Solving" }
   ],
   "skills": [
     {
