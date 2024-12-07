@@ -4,7 +4,7 @@ type: project
 image: img/gazcar/gazcar.png
 title: "Gazcar"
 date: 2024
-published: false
+published: true
 labels:
   - React.JS
   - GitHub
