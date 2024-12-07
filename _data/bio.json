@@ -58,48 +58,25 @@
       "company": "IT University",
       "position": "Développeur Fullstack",
       "website": "",
-      "startDate": "",
-      "endDate": "",
-      "summary": "Analyseur de sentiments",
+      "startDate": "2021-09-01",
+      "endDate": "2024-11-26",
+      "summary": "Etudiant et développeur full stack",
       "highlights": [
-        "Analyse les sentiments des commentaires sur une publication grâce aux machines learnings",
-        "Réalisé à l'aide du framework Django pour le coté fonctionnel, flask et Jupyter Notebook pour création d'AI et Javascript pour le rendu client."
-      ]
-    },
-    {
-      "company": "IT University",
-      "position": "Développeur Fullstack",
-      "website": "",
-      "startDate": "2023-06-01",
-      "endDate": "2023-06-04",
-      "summary": "Détécteur de Spam ( mail )",
-      "highlights": [
-        "Filtrage des mails, selon contenu grâce aux machines learnings",
-        "DJango pour le coté fonctionnel, flask et Jupyter Notebook pour l'AI et React.JS pour le rendu client"
-      ]
-    },
-    {
-      "company": "IT University",
-      "position": "Développeur et chef de projet",
-      "website": "",
-      "startDate": "2023-10-09",
-      "endDate": "2024-02-13",
-      "summary": "Logiciel ERP",
-      "highlights": [
-        "Gestion des ressources humaines au gestion des clients au gestion des services",
-        "Django pour la gestion des contrats, Java pour la gestion des congés, et PHP pour les systèmes de mailings tout utilisé sur React.JS"
+        "Suivant des cours dans le parcours de développement",
+        "Développement de plusieurs applications web que mobiles avec Python, Java, Javascript "
       ]
     },
     {
       "company": "BICI",
-      "position": "Développeur Fullstack Java" ,
+      "position": "Développeur Fullstack Java et Python" ,
       "website": "",
       "startDate": "2024-06-19",
       "endDate": "2024-11-26",
-      "summary": "Logiciel ERP pour FJKM",
+      "summary": "Dévéloppeur Full stack et DBA",
       "highlights": [
-        "Gestion des ressources ainsi que les fidèles et autres entités d'une église FJKM",
-        "Java pour les cotés fonctionnelles ainsi que les rendus clients, et python pour une reconnaissance des textes"
+        "Dévéloppeur d'application web en utilisant Java et Python comme DJango",
+        "Administrateur de base de données Oracle et Postgresql",
+        "Mise en place environnement de déploiement sur Docker"
       ]
     }
   ],
