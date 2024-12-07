@@ -6,10 +6,10 @@ title: "Gazcar"
 date: 2024
 published: false
 labels:
-	- React.JS
-	- GitHub
-	- DJango
-	- Postgresql
+  - React.JS
+  - GitHub
+  - DJango
+  - Postgresql
 summary: "Coté Back Office d'un site de vente de voiture"
 ---
 
