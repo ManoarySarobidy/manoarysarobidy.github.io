@@ -53,3 +53,7 @@ a {
 body.body{
   background-image: url('../../img/backgrounds/principal-bg.jpg');
 }
+
+.transparent {
+  background-color: transparent;
+}
