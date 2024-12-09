@@ -1,7 +1,10 @@
-<header class="navbar navbar-expand navbar-dark ">
+<header class="navbar navbar-expand navbar-dark transparent sticky-top ">
   <div class="container-fluid">
     <a class="navbar-brand" href="{{ '/' | prepend: site.baseurl }}">{{ site.data.bio.basics.site_name }}</a>
-    <div class="ms-auto">
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbar" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon sticky-top"></span>
+    </button>
+    <div class="ms-auto collapse navbar-collapse" id="navbar">
       <ul class="navbar-nav mb-2 mb-lg-0">
         <a class="nav-link" href="{{ '/#projects' | prepend: site.baseurl }}">Projects</a>
         <a class="nav-link" href="{{ '/#contact' | prepend: site.baseurl }}">Contactez - Moi</a>
@@ -14,7 +17,7 @@
 <style type="text/css">
   
   .transparent{
-    background-color: rgba(37,37,37);
+    background-color: #28282B;
   }
 
 </style>
