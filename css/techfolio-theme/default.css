@@ -51,9 +51,10 @@ a {
 
 
 body.body{
-  background-image: url('../../img/backgrounds/principal-bg.jpg');
+  /*background-image: url('../../img/backgrounds/principal-bg.jpg');
   background-size: cover;
-  background-position: center;
+  background-position: center;*/
+  background-color: #28282B;
 }
 
 
