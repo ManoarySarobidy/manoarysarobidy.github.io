@@ -1,33 +1,31 @@
-<div class="bg-gradient py-3" id="essays">
+<div class="bg-gradient py-3" id="contact">
   <div class="container">
     <div class="row mb-3">
       <div class="col-md-6">
-        <h1 class="display-4 text-center text-white">Essays</h1>
+        <h1 class="display-4 text-center text-white"> Contactez - Moi </h1>
       </div>
     </div>
 
-    <div class="row g-3">
-      {% assign essay_pages = site.pages | where: "type", "essay" | sort: "date" | reverse %}
-      {% for page in essay_pages %}
-        {% unless page.draft %}
-          {% include essays/essay-card.html page=page %}
-        {% endunless %}
-        {% if forloop.index == include.limit %}
-          {% break %}
-        {% endif %}
-      {% endfor %}
+    <div class="row">
+        <div class="col-lg-6 col-md-6 col-sm-12">
+            <div class="well my-5">
+                <h3 style="line-height:20%;"><i class="fa fa-home fa-1x" style="line-height:6%;color:#339966"></i> Adresse:</h3>               
+                <p style="margin-top:6%;line-height:35%">Cité Ambodin'Isotry, Antananarivo Madagascar</p>
+                <br />
+                <br />
+                <h3 style="line-height:20%;"><i class="fa fa-envelope fa-1x" style="line-height:6%;color:#339966"></i> E-Mail:</h3>
+                <a href="mailto:manoarysarobidy@gmail.com" style="margin-top:6%;line-height:35%"> Contactez-moi </a>
+                <br />
+                <br />
+                <h3 style="line-height:20%;"><i class="fa fa-user fa-1x" style="line-height:6%;color:#339966"></i> Numéro de Téléphone:</h3>
+                <p style="margin-top:6%;line-height:35%">+261 33 85 995 51</p>
+                <br />
+                <br />
+            </div>
+        </div>
+        <div class="col-lg-6 rounded-3 col-md-6 col-sm-12">
+            <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d235.9079570170895!2d47.51114662285823!3d-18.908039842801358!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2smg!4v1733716288700!5m2!1sen!2smg" width="600" height="450" class="rounded-2" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+        </div>
     </div>
-
-    {% assign not_draft = 0 %}
-      {% for page in essay_pages %}
-      {% unless page.draft %}
-        {% assign not_draft = not_draft | plus: 1 %}
-      {% endunless %}
-    {% endfor %}
-
-    {% if not_draft > include.limit %}
-      <p class="text-center pt-4"><a href="{{ site.baseurl}}/essays/">See all {{ not_draft }} essays</a></p>
-    {% endif %}
-
   </div>
 </div>
