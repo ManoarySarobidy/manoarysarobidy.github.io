@@ -15,7 +15,6 @@ summary: "Mise en place d'une ERP pour une société"
 
 
 <img class="img-fluid" src="../img/erp/erp.jpg">
-<div class="text-white">
 ## ERP Software : Logiciel de gestion des ressources d'entreprise
 
 Ce projet consiste en un **logiciel ERP (Enterprise Resource Planning)** conçu pour centraliser et automatiser les processus de gestion au sein d'une entreprise. Il offre une plateforme intégrée pour gérer divers modules essentiels, tels que les finances, les ressources humaines, la gestion des stocks et les ventes.
@@ -37,5 +36,3 @@ Ce projet consiste en un **logiciel ERP (Enterprise Resource Planning)** conçu 
 J'ai contribué activement à la conception et au développement du logiciel. Mes responsabilités incluaient :
 - La répartition des tâches et le suivi
 - Le développement de l'application
-
-</div>

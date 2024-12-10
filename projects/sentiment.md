@@ -14,7 +14,6 @@ summary: "Analyseur de sentiments dans un commentaire"
 ---
 
 <img class="img-fluid" src="../img/sentiment/emotions.jpg">
-<div class="text-white" >
 ## Text Sentiment Analysis : Analyse des émotions dans le texte avec interface graphique
 
 Ce projet consiste en une **analyse des sentiments** dans des données textuelles, avec une interface graphique conviviale permettant à l'utilisateur d'entrer un texte à analyser. Il détecte automatiquement les émotions exprimées (positif, négatif, neutre) et affiche les résultats de manière intuitive.
@@ -39,5 +38,3 @@ Ce projet consiste en une **analyse des sentiments** dans des données textuelle
 
 ### Mon rôle dans le projet
 J'ai conçu et développé le modèle d'analyse des sentiments, intégré une interface graphique conviviale et relié le champ de saisie utilisateur directement au modèle d'analyse. Cela a permis une interaction en temps réel entre l'utilisateur et le système.
-
-</div>
