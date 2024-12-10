@@ -14,6 +14,7 @@ summary: "Coté Back Office d'un site de vente de voiture"
 ---
 
 <img class="img-fluid" src="../img/gazcar/gazcar.png">
+<div class="text-white">
 ## Gazcar : Back-office pour une plateforme de vente de voitures en ligne
 
 **Gazcar** est un projet de back-office conçu pour gérer efficacement les opérations d'une plateforme de vente de voitures en ligne. Son objectif principal est de simplifier les tâches administratives, d'améliorer l'expérience utilisateur et d'offrir une solution robuste aux gestionnaires de la plateforme.
@@ -40,3 +41,4 @@ Pour permettre la réalisation de ce projet, les technologies suivantes ont ét�
 En tant que **chef de groupe**, j'ai supervisé l'ensemble du projet, coordonné les tâches de l'équipe et assuré le respect des délais. Parallèlement, j'ai également participé activement à la programmation, contribuant notamment au développement de :
 - des statistiques pour l'aide à la prise de décision
 - la gestion des entités
+</div>
